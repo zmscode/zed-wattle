@@ -8,4 +8,4 @@ repository = "https://github.com/zmscode/zed-wattle"
 
 [grammars.wattle]
 repository = "https://github.com/zmscode/tree-sitter-wattle"
-rev = "310caeb8cfdfd77e57b6b5c92dcbfd5467a60db0"
+rev = "bdaa985f64520fc325673d9b4ba5623a53b0d3c6"
