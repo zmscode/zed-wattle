@@ -1,0 +1,11 @@
+id = "wattle"
+name = "Wattle"
+description = "Syntax highlighting and language support for the Wattle programming language"
+version = "0.3.0"
+schema_version = 1
+authors = ["zmscode"]
+repository = "https://github.com/zmscode/zed-wattle"
+
+[grammars.wattle]
+repository = "https://github.com/zmscode/tree-sitter-wattle"
+rev = "310caeb8cfdfd77e57b6b5c92dcbfd5467a60db0"
