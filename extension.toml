@@ -15,7 +15,7 @@ capabilities = []
 
 [grammars.wattle]
 repository = "https://github.com/zmscode/tree-sitter-wattle"
-rev = "bdaa985f64520fc325673d9b4ba5623a53b0d3c6"
+rev = "1d6778eb0560dfbe19a43b8416b63a67db8a702a"
 
 [language_servers]
 [context_servers]
